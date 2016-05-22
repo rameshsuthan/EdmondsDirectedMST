@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *  
- *@author Ramesh Suthan Palani,Rahul Aravind Mehalingam,Sanjana Ramakrishnan,Anandan Sundar
+ *@author Ramesh Suthan Palani
  *
  */
 public class EdmondsDirectedMST {

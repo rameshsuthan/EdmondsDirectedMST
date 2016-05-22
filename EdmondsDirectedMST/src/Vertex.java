@@ -6,6 +6,11 @@
 
 import java.util.*;
 
+/**
+ * Vertex - represent the vertex of the graph
+ * @author rameshsuthan
+ *
+ */
 public class Vertex {
 	public Integer name; // name of the vertex
 	public boolean seen; // flag to check if the vertex has already been visited

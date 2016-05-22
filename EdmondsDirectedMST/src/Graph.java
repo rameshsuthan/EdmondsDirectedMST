@@ -1,7 +1,7 @@
 /**
  * Class to represent a graph
  * 
- *
+ *@author Ramesh Suthan Palani
  */
 
 import java.io.*;
